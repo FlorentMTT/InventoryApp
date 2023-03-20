@@ -15,7 +15,7 @@
  */
 
 package com.example.inventory
-
+/* Florent */
 
 import android.os.Bundle
 import android.view.LayoutInflater
